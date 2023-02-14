@@ -4,6 +4,8 @@
 ## 2nd var: gender - male versus female (male == more depression)
 ## 3rd var: age - young versus old (young == more depression)
 
+## this is a example text for checking github
+
 def sad_decesion(season, gender, age):
     """
     this is a basic function that takes in 3 variables and returns a string
